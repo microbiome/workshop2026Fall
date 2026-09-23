@@ -1,6 +1,6 @@
-Package: OuluWorkshop2026
+Package: workshop2026Fall
 Title: Orchestrating Microbiome Analysis workshop
-Version: 2.0.2
+Version: 2.0.3
 Authors@R: 
     c(person(given = "Tuomas", family = "Borman", role = c("aut", "cre"),
              email = "tuomas.v.borman@utu.fi",
@@ -9,7 +9,7 @@ Authors@R:
              email = "leo.lahti@iki.fi",
              comment = c(ORCID = "0000-0001-5537-637X"))
       )
-Description: Workshop organized in Oulu, September 2026.
+Description: Material for workshops organized in Fall 2026.
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
@@ -31,10 +31,10 @@ Suggests:
     maaslin3,
     mia,
     miaViz,
+    mikropml,
     multiomics,
     quarto,
     remotes,
-    sechm,
     scater,
     sessioninfo
 Remotes:
@@ -43,7 +43,7 @@ Remotes:
     github::microbiome/mia,
     github::microbiome/miaViz,
     github::microbiome/multiomics
-URL: https://microbiome.github.io/OuluWorkshop2026/
-BugReports: https://github.com/microbiome/OuluWorkshop2026/issues/new/choose
+URL: https://microbiome.github.io/workshop2026Fall/
+BugReports: https://github.com/microbiome/workshop2026Fall/issues/new/choose
 VignetteBuilder: knitr
-DockerImage: ghcr.io/microbiome/OuluWorkshop2026:latest
+DockerImage: ghcr.io/microbiome/workshop2026Fall:latest

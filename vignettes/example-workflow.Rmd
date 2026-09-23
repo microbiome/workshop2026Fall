@@ -1,8 +1,8 @@
 ---
 title: Orchestrating Microbiome Analysis with Bioconductor
-subtitle: Oulu, September 2026
+subtitle: September-October 2026
 vignette: >
-    %\VignetteIndexEntry{Oulu 2026}
+    %\VignetteIndexEntry{Fall 2026}
     %\VignetteEngine{knitr::rmarkdown}
     %\VignetteEncoding{UTF-8}
 output:
