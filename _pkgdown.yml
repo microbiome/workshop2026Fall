@@ -1,4 +1,4 @@
-url: https://microbiome.github.io/OuluWorkshop2026/
+url: https://microbiome.github.io/workshop2026Fall/
 
 template:
   params:
@@ -13,6 +13,6 @@ home:
 navbar:
   right:
    - icon: fa-github
-     href: https://github.com/microbiome/OuluWorkshop2026
-     
+     href: https://github.com/microbiome/workshop2026Fall
+
 
