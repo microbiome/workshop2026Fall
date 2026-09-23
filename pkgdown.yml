@@ -3,7 +3,7 @@ pkgdown: 2.2.1
 pkgdown_sha: ~
 articles:
   example-workflow: example-workflow.html
-last_built: 2026-09-23T10:54Z
+last_built: 2026-09-23T11:13Z
 urls:
-  reference: https://microbiome.github.io/OuluWorkshop2026/reference
-  article: https://microbiome.github.io/OuluWorkshop2026/articles
+  reference: https://microbiome.github.io/workshop2026Fall/reference
+  article: https://microbiome.github.io/workshop2026Fall/articles
